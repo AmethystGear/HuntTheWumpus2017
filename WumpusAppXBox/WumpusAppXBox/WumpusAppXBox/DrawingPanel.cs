@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WumpusAppXBox
+{
+    class DrawingPanel : System.Windows.Forms.Panel
+    {       
+
+        public DrawingPanel()
+        {
+            this.SetStyle(
+                System.Windows.Forms.ControlStyles.UserPaint |
+                System.Windows.Forms.ControlStyles.AllPaintingInWmPaint |
+                System.Windows.Forms.ControlStyles.OptimizedDoubleBuffer,
+                true);
+            DoubleBuffered = true;
+        }
+    }
+}

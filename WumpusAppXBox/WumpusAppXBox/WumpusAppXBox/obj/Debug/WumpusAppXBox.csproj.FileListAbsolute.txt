@@ -1,0 +1,12 @@
+c:\users\swati\documents\visual studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\bin\Debug\WumpusAppXBox.exe.config
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\obj\Debug\WumpusAppXBox.csprojResolveAssemblyReference.cache
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\obj\Debug\WumpusAppXBox.Properties.Resources.resources
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\obj\Debug\WumpusAppXBox.csproj.GenerateResource.Cache
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\bin\Debug\WumpusAppXBox.exe
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\bin\Debug\WumpusAppXBox.pdb
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\bin\Debug\SlimDX.dll
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\bin\Debug\SlimDX.pdb
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\bin\Debug\SlimDX.xml
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\obj\Debug\WumpusAppXBox.exe
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\obj\Debug\WumpusAppXBox.pdb
+C:\Users\Swati\Documents\Visual Studio 2015\Projects\WumpusAppXBox\WumpusAppXBox\obj\Debug\WumpusAppXBox.Form1.resources
